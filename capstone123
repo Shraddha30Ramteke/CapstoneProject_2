@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="CapstoneSuite">
+    <test name="CapstoneTest">
+        <classes>
+            <class name="stepDefination.CapstoneStepDefination">
+                <methods>
+                    <include name=".*" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
